@@ -1,5 +1,5 @@
 # click 👉 <a href = "https://awesomeyelim.github.io/Shakeshack/" >shakeshack</a>
-  - 팀 프로젝트 : 쉐이크쉑 페이지 리뉴얼 프로젝트 (👉 <a href ="http://www.shakeshack.kr/">기존사이트</a>
+  - 팀 프로젝트 : 쉐이크쉑 페이지 리뉴얼 프로젝트 👉 <a href ="http://www.shakeshack.kr/">기존사이트</a>
   - 반응형으로 제작
   - 기존 위치정보 배치 및 브랜드 스토리 -> 동적구현으로 리뉴얼
   - 메뉴 구성도 직관적으로 재배치 및 리뉴얼, 불필요한 스크롤 이동 제거
