@@ -1,6 +1,6 @@
 # click 👉 <a href = "https://awesomeyelim.github.io/SHAKESHACK/" >shakeshack</a>
   - 팀 프로젝트 
-    - 참여인원 : 2명(윤하늘, 홍예림)
+    - 참여인원 : 2명 (윤하늘, 홍예림)
     - 개요 : 쉐이크쉑 페이지 리뉴얼 프로젝트 👉 <a href ="http://www.shakeshack.kr/">기존사이트</a>
   - 기간 : 21.8.24 ~ 31
   - 목적 : 쉐이크쉑 페이지 리뉴얼 프로젝트.
